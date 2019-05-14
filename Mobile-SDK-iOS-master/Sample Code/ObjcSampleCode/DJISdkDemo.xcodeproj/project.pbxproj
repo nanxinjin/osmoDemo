@@ -1145,7 +1145,7 @@
 				ORGANIZATIONNAME = DJI;
 				TargetAttributes = {
 					3B16A8E719D12167008C1818 = {
-						DevelopmentTeam = 7UL3LRJL93;
+						DevelopmentTeam = XT6JSGQ7Y2;
 						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
 							com.apple.DataProtection = {
@@ -1160,6 +1160,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = 3B16A8DF19D12166008C1818;
@@ -1477,7 +1478,7 @@
 				CODE_SIGN_ENTITLEMENTS = DJISdkDemo/DJISdkDemo.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = 7UL3LRJL93;
+				DEVELOPMENT_TEAM = XT6JSGQ7Y2;
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -1498,7 +1499,7 @@
 					"-ObjC",
 					"$(inherited)",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.dji.sdksamplecode;
+				PRODUCT_BUNDLE_IDENTIFIER = com.deephow.osmodemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -1518,7 +1519,7 @@
 				CODE_SIGN_ENTITLEMENTS = DJISdkDemo/DJISdkDemo.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = 7UL3LRJL93;
+				DEVELOPMENT_TEAM = XT6JSGQ7Y2;
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -1539,7 +1540,7 @@
 					"-ObjC",
 					"$(inherited)",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.dji.sdksamplecode;
+				PRODUCT_BUNDLE_IDENTIFIER = com.deephow.osmodemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
